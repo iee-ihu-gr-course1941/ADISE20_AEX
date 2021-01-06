@@ -1,5 +1,5 @@
 
-<?php include('sign-up.php') ?>
+
 <!DOCTYPE html>
 <html>
 <head>
